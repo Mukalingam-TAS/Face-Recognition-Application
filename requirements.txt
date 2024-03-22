@@ -1,0 +1,4 @@
+opencv-python
+streamlit==1.22.0
+face_recognition 
+cmake
